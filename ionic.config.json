@@ -1,5 +1,7 @@
 {
   "name": "Social_Events_Calendar_App",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
