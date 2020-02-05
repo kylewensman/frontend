@@ -21,11 +21,11 @@ export class AppComponent {
       url: '/list',
       icon: 'videocam'
     },
-    {
-      title: 'Profile',
-      url: '/profile',
-      icon: 'contact'
-    }
+    // {
+    //   title: 'Profile',
+    //   url: '/profile',
+    //   icon: 'contact'
+    // }
   ];
 
   constructor(
