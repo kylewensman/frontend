@@ -32,11 +32,6 @@ export class AppComponent {
       ]
     }
   ];
-      // {
-    //   title: 'Profile',
-    //   url: '/profile',
-    //   icon: 'contact'
-    // }
 
   constructor(
     private platform: Platform,
